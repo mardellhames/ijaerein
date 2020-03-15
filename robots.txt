@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doogahmael.homekit.id/sitemap.xml
